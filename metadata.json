@@ -1,0 +1,7 @@
+{
+  "name": "Mysyarikat Recognition Attendance",
+  "description": "A professional face recognition attendance system that stores and verifies facial biometric data entirely in your browser using face-api.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
